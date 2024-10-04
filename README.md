@@ -1,23 +1,24 @@
-## Getting Started
+# Iob Bank - Front End
 
-First, run the development server:
+Este é um projeto React + NextJS, responsável por consumir
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Requisitos
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- NodeJS
+- Yarn
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+## Como rodar
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+1. Dentro da pasta do projeto, execute: `yarn`
+2. Após instalado as dependências, execute: `yarn dev`
+3. Abra o navegador e acesse a url `http://localhost:3000`
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## Login
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Para acessar o aplicativo, use as seguintes credenciais:
+
+- Email: `yuri@iob.com`
+- Senha: `123`
+
+- Email: `tata@iob.com`
+- Senha: `123`
